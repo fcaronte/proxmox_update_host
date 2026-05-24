@@ -1,5 +1,3 @@
----
-
 # Proxmox Host Updater
 
 Uno script Bash leggero e robusto per automatizzare l'aggiornamento completo del sistema operativo del tuo host Proxmox VE. Lo script esegue la sincronizzazione dei repository, l'aggiornamento dei pacchetti (dist-upgrade), la pulizia dei file obsoleti e verifica automaticamente se è necessario un riavvio a causa di un aggiornamento del Kernel.

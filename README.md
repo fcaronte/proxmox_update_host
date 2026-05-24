@@ -16,7 +16,7 @@ Uno script Bash leggero e robusto per automatizzare l'aggiornamento completo del
 Puoi scaricare ed eseguire lo script direttamente sulla shell del tuo host Proxmox con un singolo comando:
 
 ```bash
-wget -qLO update-proxmox.sh [https://github.com/fcaronte/proxmox_update_host/raw/refs/heads/main/update-proxmox.sh] && chmod +x update-proxmox.sh && ./update-proxmox.sh
+wget -qLO update-proxmox.sh https://github.com/fcaronte/proxmox_update_host/raw/refs/heads/main/update-proxmox.sh && chmod +x update-proxmox.sh && ./update-proxmox.sh
 
 ```
 
